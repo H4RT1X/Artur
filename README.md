@@ -20,7 +20,8 @@
     </header>
 
     <section id="home" class="logo">
-        <img src="./img/images.jfif" alt="лого">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiBBbLWhm1T7lasQYs2MPvOobfRB8zrbAYVg&s"
+            alt="лого">
         <h1>Привет! Я Артур</h1>
         <p class="slogan">Начинающий веб-разработчик</p>
     </section>
