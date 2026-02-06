@@ -15,7 +15,7 @@ header {
     background-color: #4A90E2;
     padding: 20px;
     position: fixed;
-    width: 70%;
+    width: 100%;
     top: 0;
     z-index: 100;
 }
@@ -91,7 +91,7 @@ section h3 {
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 .info-block p {
@@ -136,4 +136,72 @@ section h3 {
     color: white;
     padding: 10px 20px;
     border-radius: 20px;
+}
+
+
+#projects {
+    background-color: #f4f4f4;
+}
+
+.project {
+    background-color: white;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.project img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.project h3 {
+    color: #333;
+    margin: 10px 0;
+}
+
+
+.achievement {
+    background-color: #4A90E2;
+    color: white;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+#contact {
+    background-color: #f4f4f4;
+}
+
+.contacts {
+    text-align: center;
+}
+
+.contacts p {
+    margin: 15px;
+    font-size: 18px;
+}
+
+.contacts a {
+    color: #4A90E2;
+    text-decoration: none;
+}
+
+.contacts a:hover {
+    text-decoration: underline;
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
 }
